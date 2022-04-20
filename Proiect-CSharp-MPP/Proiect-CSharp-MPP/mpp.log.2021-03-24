@@ -1,0 +1,364 @@
+﻿INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Entering FindOne with value 2
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Entering FindOne with value 2
+INFO 1 FlightDBRepository - Exiting FindOne with value Flight{ Destination: Lyon, FrantaDepartureDate: 09/04/2021 18:00:00Airport: Aeroportul International Henri Coanda
+Seats: 446 }
+INFO 1 CustomerDBRepository - Entering FindByCnp with value 1234567891003
+INFO 1 CustomerDBRepository - Exiting FindByCnp with value {0}
+INFO 1 CustomerDBRepository - Entering Add with value Customer{ Name: Paul IvanCNP: 1234567891003Address: Str. Cehei, nr. 14, Oradea, Romania }
+INFO 1 CustomerDBRepository - Exiting Add - Customer added successfully
+INFO 1 CustomerDBRepository - Entering FindByCnp with value 1234567891003
+INFO 1 CustomerDBRepository - Exiting FindByCnp with value Customer{ Name: Paul IvanCNP: 1234567891003Address: Str. Cehei, nr. 14, Oradea, Romania }
+INFO 1 TicketDBRepository - Entering Add with value Ticket{ Customer: Customer{ Name: Paul IvanCNP: 1234567891003Address: Str. Cehei, nr. 14, Oradea, Romania }Tourists: System.Collections.Generic.List`1[System.String]Seats: 4Flight: Flight{ Destination: Lyon, FrantaDepartureDate: 09/04/2021 18:00:00Airport: Aeroportul International Henri Coanda
+Seats: 446 } }
+INFO 1 TicketDBRepository - Exiting Add - Customer added successfully
+INFO 1 FlightDBRepository - Entering Update with values Flight{ Destination: Lyon, FrantaDepartureDate: 09/04/2021 18:00:00Airport: Aeroportul International Henri Coanda
+Seats: 442 }, 2
+INFO 1 FlightDBRepository - Exiting Update - Flight updated successfully
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Entering FindOne with value 4
+INFO 1 FlightDBRepository - Exiting FindOne with value Flight{ Destination: Roma, ItaliaDepartureDate: 29/08/2021 15:00:00Airport: Aeroportul International OradeaSeats: 320 }
+INFO 1 CustomerDBRepository - Entering FindByCnp with value 1234567891004
+INFO 1 CustomerDBRepository - Exiting FindByCnp with value {0}
+INFO 1 CustomerDBRepository - Entering Add with value Customer{ Name: Alin JivanCNP: 1234567891004Address: Bucuresti sector 4, str. Calea Serban Voda 145 }
+INFO 1 CustomerDBRepository - Exiting Add - Customer added successfully
+INFO 1 CustomerDBRepository - Entering FindByCnp with value 1234567891004
+INFO 1 CustomerDBRepository - Exiting FindByCnp with value Customer{ Name: Alin JivanCNP: 1234567891004Address: Bucuresti sector 4, str. Calea Serban Voda 145 }
+INFO 1 TicketDBRepository - Entering Add with value Ticket{ Customer: Customer{ Name: Alin JivanCNP: 1234567891004Address: Bucuresti sector 4, str. Calea Serban Voda 145 }Tourists: System.Collections.Generic.List`1[System.String]Seats: 3Flight: Flight{ Destination: Roma, ItaliaDepartureDate: 29/08/2021 15:00:00Airport: Aeroportul International OradeaSeats: 320 } }
+INFO 1 TicketDBRepository - Exiting Add - Customer added successfully
+INFO 1 FlightDBRepository - Entering Update with values Flight{ Destination: Roma, ItaliaDepartureDate: 29/08/2021 15:00:00Airport: Aeroportul International OradeaSeats: 317 }, 4
+INFO 1 FlightDBRepository - Exiting Update - Flight updated successfully
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
+INFO 1 CustomerDBRepository - Creating CustomerDBRepository
+INFO 1 FlightDBRepository - Creating FlightDBRepository
+INFO 1 EmployeeDBRepository - Creating EmployeeDBRepository
+INFO 1 TicketDBRepository - Creating TicketDBRepository
+INFO 1 EmployeeDBRepository - Entering FindByUsername with value andrei.mihaescu
+INFO 1 EmployeeDBRepository - Exiting FindOne with value Employee{ Name: Andrei MihaescuUsername: andrei.mihaescuPassword: 123456 }
+INFO 1 FlightDBRepository - Entering FindAll
+INFO 1 FlightDBRepository - Exiting FindAll
+INFO 1 FlightDBRepository - Entering FindByDestinationAndDepartureDate
+INFO 1 FlightDBRepository - Exiting FindByDestinationAndDepartureDate
